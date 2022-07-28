@@ -1,3 +1,4 @@
+import React from 'react';
 import Colaborador from '../Colaborador/Colaborador';
 import './Time.css';
 

@@ -1,4 +1,4 @@
-
+import React from 'react';
 import { useState } from 'react';
 import Banner from './componentes/Banner/Banner';
 import Footer from './componentes/Footer/Footer';
