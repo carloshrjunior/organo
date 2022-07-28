@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "49238e98b16a7553dd58",
+    "revision": "9e5e00d2297638fbf25e",
     "url": "/organo/static/css/main.e913b588.chunk.css"
   },
   {
-    "revision": "49238e98b16a7553dd58",
-    "url": "/organo/static/js/main.49238e98.chunk.js"
+    "revision": "9e5e00d2297638fbf25e",
+    "url": "/organo/static/js/main.9e5e00d2.chunk.js"
   },
   {
     "revision": "836e4380fe3f7816a983",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/organo/static/js/runtime~main.aea71375.js"
   },
   {
-    "revision": "215afe53c4fdedad40b3b6cb16cc3d9f",
+    "revision": "029e36e3fb47550d2399ff92ee40314a",
     "url": "/organo/index.html"
   }
 ];
