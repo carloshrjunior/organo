@@ -10,7 +10,7 @@ const Footer = () => {
         <a href='#'><img  src='./img/footer/ig.png' alt='Instagram'/></a>
       </nav>
       <img src='./img/logo.png' alt='Logo Organo'/>
-      <span>Desenvolvido por Carlos Junior.</span>
+      <span>testetesteDesenvolvido por Carlos Junior.</span>
     </footer>
   )
 }
