@@ -1,5 +1,5 @@
 footer {
-  background: url('/img/footer/fundo-footer.png') no-repeat bottom / contain fixed #6278F7;
+  background: url('./img/footer/fundo-footer.png') no-repeat bottom / contain fixed #6278F7;
 
   display: flex;
   align-items: center;
