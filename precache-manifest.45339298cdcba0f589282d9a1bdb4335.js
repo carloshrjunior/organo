@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "0396eb71337a49295f48",
-    "url": "/organo/static/css/main.198e6a21.chunk.css"
+    "revision": "1239bdeb7aa1e4939262",
+    "url": "/organo/static/css/main.5812501b.chunk.css"
   },
   {
-    "revision": "0396eb71337a49295f48",
-    "url": "/organo/static/js/main.0396eb71.chunk.js"
+    "revision": "1239bdeb7aa1e4939262",
+    "url": "/organo/static/js/main.1239bdeb.chunk.js"
   },
   {
     "revision": "836e4380fe3f7816a983",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/organo/static/media/fundo-footer.402a39b8.png"
   },
   {
-    "revision": "0aecb89531e5b1f21ce1cc351e4860e5",
+    "revision": "2f0c2fcae2bfa7407843d631a3351a1c",
     "url": "/organo/index.html"
   }
 ];
