@@ -13,6 +13,7 @@
 .lista_suspensa select {
     background-color: #fff;
     border: none;
+    border-radius: 10px;
     box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.06);
     box-sizing: border-box;
     
@@ -21,4 +22,16 @@
     padding: 1.5rem;
 
     width: 100%;
+}
+
+@media screen and (min-width: 360px) and (max-width: 640px) {
+    .lista_suspensa label {
+        font-size: 1.25rem;
+      }
+      
+      .lista_suspensa select {    
+        font-size: 1.25rem;
+    
+        padding: 1.5rem 1rem;
+      }
 }

@@ -14,3 +14,17 @@
 
   max-width: 80%;
 }
+
+@media screen and (min-width: 360px) and (max-width: 640px) {
+  .formulario form {
+    border-radius: 0;
+
+    padding: 2rem 1.75rem;
+
+    max-width: 100%;
+  }
+
+  .formulario form > h2 {
+    text-align: center;
+  }
+}

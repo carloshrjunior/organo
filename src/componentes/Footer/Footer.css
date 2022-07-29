@@ -20,7 +20,7 @@ footer {
   width: 32px;
 }
 
-footer image {
+footer > img {
   width: 166px;
 }
 
@@ -32,4 +32,29 @@ footer span {
   font-weight: 500;
 
   line-height: 1.5rem;
+}
+
+@media screen and (min-width: 360px) and (max-width: 1120px) {
+  footer {
+    flex-direction: column;
+    gap: 2.5rem;
+    padding: 40px 20px;
+  }
+
+  .social-media {
+    gap: 45px;
+  }
+
+  .social-media a, .social-media a > img {
+    height: 25px;
+    width: 25px;
+  }
+
+  footer > img {
+    width: 120px;
+  }
+
+  footer span {
+    font-size: .75rem;
+  }
 }
